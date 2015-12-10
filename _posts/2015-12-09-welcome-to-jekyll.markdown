@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github Pages and Jekyll"
+title:  "Github Pages - Introduction"
 date:   2015-12-09 17:50:49 -0700
 categories: jekyll update
 ---
