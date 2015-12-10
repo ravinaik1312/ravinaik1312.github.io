@@ -37,7 +37,7 @@ Here is the code.
 
 Awesome, commit the changes an allow some time before you hit your repository web site. As per documentation, Github Pages takes about 30 minutes for making the initial domain available. After that, you'll be able to see the changes immediately, meaning any code change will reflect your live web site. Nothing groundbreaking, but you made it, so ...
 
-![Give Yourself a Cookie](http://memegenerator.net/instance/49874629)
+![Give Yourself a Cookie](/images/obamaCookieMeme.jpg)
 
 
 
