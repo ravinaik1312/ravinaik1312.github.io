@@ -28,4 +28,4 @@ jekyll serve
 Head to your browser at http://localhost:4000 to see what jekyll created for you. 
 
 # **Jekyll and Github Pages**
-Now that you have a website, you can use Github pages to host it. Copy over all the folders created by Jekyll to your Github Repository that you created in the previous post. Once, you commit these changes to your repository, it gets automatically reflected and Githb pages will ne hosting the site that you have created using Jekyll. 
+Now that you have a website, you can use Github pages to host it. Copy over all the folders created by Jekyll to your Github Repository that you created in the previous post. Once, you commit these changes to your repository, it gets automatically reflected and Github pages will be hosting the site that you have created using Jekyll. 
