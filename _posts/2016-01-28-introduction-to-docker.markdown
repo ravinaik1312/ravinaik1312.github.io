@@ -16,6 +16,8 @@ Docker stores all the docker objects in the cloud called as 'Docker Hub'. The us
 
 **Use Case**
 
-To keep this article short, I can directly jump to a use case that would better explain the purpose of Docker. Suppose, you are working on creating an application that uses Oracle as a database. Traditionally, you would have a shared Oracle server that you would be using across the team. With Docker, you can pull an Oracle Docker object and start the VM to run an Oracle instance locally. This gives you utmost freedom to tear down the instance whenever you want and mess around with the data without hampering the development time of someone else. 
+To keep this article short, I can directly jump to a use case that would better explain the purpose of Docker. Suppose, you are working on creating an application that uses Oracle as a database. Traditionally, you would have a shared Oracle server that you would be using across the team. With Docker, you can pull an Oracle Docker object and start the VM to run an Oracle instance locally. This gives you utmost freedom to tear down the instance whenever you want and mess around with the data without hampering the development time of someone else. Docker also has a provision for creating a multi-component object and then uploading that library on Docker hub for others to use. This can help with each developer in a team having his own multi-component object on his local machine for development. 
 
 **Alternative - AWS**
+
+Alternatively, you can use AWS to serve a similar purpose. AWS has a concept called as AMI(Amazon Machine Image) on which you have multiple-components installed. One can then just start up a VM out of that image for use. With AWS, you would be charged for the machine up time and the resources you are using. 
