@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About Me
-
 ## Academic Background:
 
 * Completed my Bachelors in Computer Engineering from Mumbai University
