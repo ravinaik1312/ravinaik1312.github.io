@@ -16,4 +16,4 @@ My message to those of you who are still at University working towards a degree 
 * First gig into the Software World was with Massively Parallel Technologies where I worked while I was in school at Arizona State University. 
 * Have been working as a Software Engineer for Orion Health since I graduated from ASU
 * Most of my work have been as a back end engineer creating RESTful web services working with interaction with Elasticsearch. Also got my hands dirty with automating the deployment of Elasticsearch using Puppet and related technologies. 
-* You can find details about my work on my LinkedIn profile, [here](https://www.linkedin.com/in/ravinaik1)
+* You can find details about my work on my LinkedIn profile, [here](https://www.linkedin.com/in/ravinaik1) or through my [resume](Ravi_Naik_Resume.docx)
